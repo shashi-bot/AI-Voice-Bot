@@ -1,0 +1,12 @@
+{
+    "name": "voice-bot",
+    "version": "1.0.0",
+    "description": "AI-powered voice bot for answering questions about the creator's background and experience",
+    "type": "module",
+    "scripts": {
+      "start": "vercel dev"
+    },
+    "dependencies": {
+      "node-fetch": "^3.3.2"
+    }
+  }
