@@ -1,5 +1,5 @@
-Voice Bot
-Voice Bot is a single-page web application that allows users to interact with an AI-powered assistant via voice or text input. The bot answers questions about the creator's background and experience, leveraging GitHub AI for text responses and Azure Text-to-Speech (TTS) for voice output. The application is built with HTML, CSS, and JavaScript, and deployed on Vercel with a serverless function to securely handle API calls.
+AI Voice Bot
+AI Voice Bot is a single-page web application that allows users to interact with an AI-powered assistant via voice or text input. The bot answers questions about the creator's background and experience, leveraging  AI for text responses and Azure Text-to-Speech (TTS) for voice output. The application is built with HTML, CSS, and JavaScript, and deployed on Vercel with a serverless function to securely handle API calls.
 Features
 
 Voice Interaction: Use speech recognition to ask questions (supported in Chrome and Edge).
@@ -31,7 +31,7 @@ Setup for Local Testing
 
 Clone the Repository:
 git clone <repository-url>
-cd voice-bot
+cd ai-voice-bot
 
 
 Install Dependencies:
